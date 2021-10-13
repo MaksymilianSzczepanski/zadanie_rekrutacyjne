@@ -1,0 +1,23 @@
+html {
+    font-family: roboto, arial, sans-serif;
+    margin: auto 10vw auto 10vw;
+    font-size: 10px;
+    color: #ddd;
+}
+
+.filtr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.table {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.40rem;
+}
+
+th:hover {
+    background: cadetblue;
+}
